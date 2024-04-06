@@ -1,4 +1,4 @@
-    if game:GetService("Workspace").Map:FindFirstChild("KitsuneIsland") then
+if game:GetService("Workspace").Map:FindFirstChild("KitsuneIsland") then
         local HttpService = game:GetService("HttpService")
         local Data =
             {
