@@ -5,9 +5,7 @@ if game.PlaceId == 7449423635 then
             {
                 ["embeds"]= {
                    {
-                        image = { url = selectedDay },
-                        thumbnail = { url = "https://cdn.discordapp.com/attachments/1221768340524109877/1225631427169620099/image.png?ex=6621d537&is=660f6037&hm=f60a4c6711a1fcf72b5af02a499eaa361365ea960dbf9a8b774f14ee54212d97&" },
-                        fields= {
+                        ["fields"]= {
     
                             {
                                 ["name"]= "Kitsune island🏝",
